@@ -1,5 +1,7 @@
 # Casper
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/casper.svg)](https://greenkeeper.io/)
+
 The default theme for [Ghost](http://github.com/tryghost/ghost/).
 
 To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
